@@ -1,1 +1,1 @@
-# ray-serve-examples
+# Examples for Ray Serve and KubeRay RayService
